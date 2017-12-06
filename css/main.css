@@ -1,0 +1,43 @@
+.red{
+	background-color: red;
+	height: 450px;
+	/*text-align: center;*/
+}
+
+.black{
+	background-color: black;
+	height: 450px;
+}
+
+.aqua{
+	background-color: aqua;
+	height: 450px;
+}
+
+img{
+	height: 250px;
+	width: 250px;
+
+}
+
+div.col-md-4{
+	text-align: center;
+}
+
+/*NAV BAR */
+.navbar{
+	margin: -1px;
+	background-color: blue;
+	padding:0px;
+}
+
+.button{
+	background-color: green;
+	border-color: yellow;
+	color: red;
+}
+
+img.box{
+	width: 225px;
+	height: 225px;
+}
